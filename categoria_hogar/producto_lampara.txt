@@ -1,0 +1,4 @@
+Nombre: Lampara de techo
+Marca: Ejemplo
+Precio: 100 USD
+Descripción: Lampara colgante.

@@ -1,0 +1,4 @@
+Nombre: Gorra
+Marca: Ejemplosock
+Precio: 100 USD
+Descripción: gorra para el sol.

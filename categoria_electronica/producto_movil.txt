@@ -1,0 +1,4 @@
+Nombre: Movil
+Marca: ZTE
+Precio: 900 USD
+Descripción: Potente telefono movil.

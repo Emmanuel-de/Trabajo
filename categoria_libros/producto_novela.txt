@@ -1,0 +1,4 @@
+Nombre: Summ y sus amigos
+Marca: Ejemplo
+Precio: 20USD
+Descripción: Novela de superacion.

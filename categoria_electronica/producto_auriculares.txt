@@ -1,0 +1,4 @@
+Nombre: Auriculares
+Marca: Apple
+Precio: 1000 USD
+Descripción: Potente audifonos.

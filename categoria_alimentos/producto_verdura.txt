@@ -1,0 +1,4 @@
+Nombre: brocoli
+Marca: Ejemplo
+Precio: 5 USD
+Descripción: Verdura verde.

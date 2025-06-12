@@ -1,0 +1,4 @@
+Nombre: Vaso de vidrio
+Marca: Ejemplo
+Precio: 3 USD
+Descripción: Vaso de cristal.

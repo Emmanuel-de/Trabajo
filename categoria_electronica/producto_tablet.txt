@@ -1,0 +1,4 @@
+Nombre: Tableta
+Marca: acer
+Precio: 1100 USD
+Descripción: Potente tableta para trabajo y estudio.

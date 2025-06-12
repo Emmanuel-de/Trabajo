@@ -1,0 +1,4 @@
+Nombre: Pantalones
+Marca: Livai
+Precio: 500 USD
+Descripción: Pantalones de marca y ala moda.

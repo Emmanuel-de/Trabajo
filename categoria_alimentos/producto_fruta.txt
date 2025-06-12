@@ -1,0 +1,4 @@
+Nombre: Sandia
+Marca: Ejemplo
+Precio: 12USD
+Descripción: Sandia organica.

@@ -1,0 +1,4 @@
+Nombre: Camiseta
+Marca: Polo
+Precio: 200 USD
+Descripción: Camiseta para caballero.

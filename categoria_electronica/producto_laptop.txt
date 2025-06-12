@@ -1,0 +1,4 @@
+Nombre: Laptop
+Marca: EjemploTech
+Precio: 1200 USD
+Descripción: Potente laptop para trabajo y estudio.

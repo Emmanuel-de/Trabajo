@@ -1,0 +1,4 @@
+Nombre: Silla Game
+Marca: Ejemplo
+Precio: 1200 USD
+Descripción: Silla ergonomica.

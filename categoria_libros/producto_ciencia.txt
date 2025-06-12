@@ -1,0 +1,4 @@
+Nombre: El Despertar del Diablo
+Marca: Ejemplo
+Precio: 100 USD
+Descripción: Libro de rjf.

@@ -1,0 +1,4 @@
+Nombre: Zapatos
+Marca: Nike
+Precio: 1200 USD
+Descripción: Calsado para deportes.

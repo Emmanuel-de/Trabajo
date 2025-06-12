@@ -1,0 +1,4 @@
+Nombre: Mesa de marmol
+Marca: Ejemplo
+Precio: 1300 USD
+Descripción: Mesa de materiales de alta gama.

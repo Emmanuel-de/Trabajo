@@ -1,0 +1,4 @@
+Nombre: Alfombra de seda
+Marca: Ejemplo
+Precio: 1500 USD
+Descripción: Alfombra de finas telas.

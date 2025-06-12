@@ -1,0 +1,4 @@
+Nombre: Nutri
+Marca: Ejemplo
+Precio: 10 USD
+Descripción: suero nutritivo.

@@ -1,0 +1,4 @@
+Nombre: 100 y un poemas
+Marca: Ejemplo
+Precio: 20 USD
+Descripción: Colecion de poemas.

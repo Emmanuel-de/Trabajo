@@ -1,0 +1,4 @@
+Nombre: Vestido
+Marca: Rosario
+Precio: 400 USD
+Descripción: Vestido de verano.

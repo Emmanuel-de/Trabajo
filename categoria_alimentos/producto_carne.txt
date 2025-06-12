@@ -1,0 +1,4 @@
+Nombre: Carne de Res
+Marca: Ejemplo
+Precio: 10 USD
+Descripción: Lomillo.

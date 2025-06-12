@@ -1,0 +1,4 @@
+Nombre: Historia de mexico
+Marca: Ejemplo
+Precio: 100 USD
+Descripción: Libro de aprendisaje.

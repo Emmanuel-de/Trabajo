@@ -1,0 +1,4 @@
+Nombre: El señor de los anillos
+Marca: Ejemplo
+Precio: 200 USD
+Descripción: Libro que cuenta las aventuras de la comunidad del anillo.

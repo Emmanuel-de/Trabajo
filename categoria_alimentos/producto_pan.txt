@@ -1,0 +1,4 @@
+Nombre: Pan de Caja
+Marca: Ejemplo
+Precio: 9 USD
+Descripción: Pan bimbo.
